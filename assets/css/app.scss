@@ -1,0 +1,14 @@
+@import '~bootstrap/scss/bootstrap';
+@import "~dropzone/dist/dropzone.css";
+
+body {
+    background-color: #DDD;
+}
+.dropzone {
+    background-color: #EEE;
+    border: 2px dashed #0277bd;
+    min-height: 250px;
+    margin-top:100px;
+    padding: 50px;
+    text-align: center;
+}

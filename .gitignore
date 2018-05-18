@@ -5,4 +5,6 @@
 /var/
 /vendor/
 ###< symfony/framework-bundle ###
-.idea
+/.idea/
+yarn-error.log
+/node_modules/
