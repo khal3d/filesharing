@@ -4,11 +4,14 @@
 body {
     background-color: #DDD;
 }
-.dropzone {
-    background-color: #EEE;
-    border: 2px dashed #0277bd;
-    min-height: 250px;
+
+.upload-container {
     margin-top:100px;
-    padding: 50px;
-    text-align: center;
+    .dropzone {
+        background-color: #EEE;
+        border: 2px dashed #0277bd;
+        min-height: 350px;
+        padding: 50px;
+        text-align: center;
+    }
 }
